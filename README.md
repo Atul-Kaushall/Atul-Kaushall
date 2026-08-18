@@ -1,24 +1,15 @@
-## Hi there 👋
-
-<!--
-**Atul-Kaushall/Atul-Kaushall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# Atul Kaushal — Software Engineer | AI/ML | Full-Stack | Cloud
-
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=180&section=header&text=ATUL%20KAUSHAL&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%2FML%20%7C%20FULL-STACK%20%7C%20CLOUD&descAlignY=60&descSize=15&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=200&section=header&text=ATUL%20KAUSHAL&fontSize=45&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%7C%20AI%2FML%20%7C%20FULL-STACK%20%7C%20CLOUD&descAlignY=62&descSize=15&animation=twinkling" width="100%"/>
 
 <a href="https://readme-typing-svg.demolab.com/">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=B.Tech+CSE+Student+%7C+Software+Engineer;Building+Scalable+Full-Stack+Systems;Exploring+AI%2FML+%26+Cloud+Engineering;Java+%7C+Spring+Boot+%7C+SQL+%7C+Linux;DSA+%7C+System+Design+%7C+DevOps;Always+Learning.+Always+Building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=850&lines=B.Tech+Computer+Science+Engineering+Student;Java+%7C+DSA+%7C+Spring+Boot+%7C+SQL;Full-Stack+Development+%7C+Cloud+Engineering;Exploring+AI%2FML+%26+DevOps;Building+Projects.+Solving+Problems.+Learning+Every+Day." alt="Typing SVG"/>
 </a>
 
 <br/>
 
-<img src="https://img.shields.io/badge/B.Tech%20CSE-Galgotias%20University-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech%20CSE-Galgotias%20University-6D28D9?style=for-the-badge&logo=google-scholar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Software%20Engineering-Focused-4C1D95?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/AI%2FML-Exploring-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/India-0F172A?style=for-the-badge&logo=googlemaps&logoColor=A78BFA"/>
@@ -48,40 +39,39 @@ Here are some ideas to get you started:
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-I am a **B.Tech Computer Science Engineering student** focused on building strong foundations in software engineering, scalable backend systems, cloud technologies, and applied AI/ML.
+I am a **B.Tech Computer Science Engineering student at Galgotias University**, focused on building strong foundations in software engineering, backend development, cloud technologies, AI/ML, and problem solving.
 
-My engineering approach combines **problem solving, clean architecture, practical development, and continuous experimentation**. I enjoy turning concepts into working systems and continuously improving the quality, scalability, security, and maintainability of the software I build.
+My current engineering journey revolves around **Java, Data Structures & Algorithms, Spring Boot, SQL, Full-Stack Development, Linux, Git/GitHub, Cloud, DevOps, and AI/ML**.
 
-My current technical direction is centered around **Java, DSA, Full-Stack Development, Spring Boot, SQL, Linux, Cloud Engineering, DevOps, and AI/ML**.
-
-I am particularly interested in the intersection of **software engineering + AI + cloud infrastructure**, with a long-term goal of becoming an engineer capable of designing and shipping production-grade systems end-to-end.
+I enjoy turning concepts into practical projects and continuously improving my ability to design, develop, debug, and deploy reliable software systems.
 
 ### Engineering Mindset
 
-- Build before memorizing
-- Understand systems from fundamentals
-- Write maintainable and testable code
-- Solve problems using data structures and algorithms
-- Design APIs and backend services with scalability in mind
-- Automate repetitive engineering workflows
-- Learn cloud infrastructure alongside application development
-- Continuously improve through projects, internships, hackathons, and open source
+- Build strong fundamentals before moving to abstractions
+- Solve problems using Data Structures & Algorithms
+- Write clean, readable, and maintainable code
+- Build practical backend and full-stack applications
+- Understand databases and API architecture
+- Learn Linux, cloud, and DevOps alongside development
+- Explore AI/ML through practical applications
+- Participate in hackathons and technical projects
+- Continuously improve through projects and open-source learning
 
 ### Open To
 
-`Software Engineering` · `Backend Development` · `Full-Stack Development` · `AI/ML Engineering` · `Cloud Engineering` · `DevOps` · `Open Source` · `Internships` · `Hackathons`
+`Software Engineering` · `Backend Development` · `Full-Stack Development` · `AI/ML` · `Cloud Engineering` · `DevOps` · `Open Source` · `Internships` · `Hackathons`
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,cpp&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,js,html,css&theme=dark"/>
 
 </div>
 
@@ -97,7 +87,7 @@ I am particularly interested in the intersection of **software engineering + AI 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,postgres,mongodb,redis&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,mysql,postgres,mongodb&theme=dark"/>
 
 </div>
 
@@ -111,69 +101,69 @@ I am particularly interested in the intersection of **software engineering + AI 
 
 ---
 
-## AI / ML Expertise
+## 🤖 AI / ML Expertise
 
 | Domain | Proficiency | Details |
 |---|---|---|
-| Machine Learning | 🟣 Developing | Understanding core ML concepts, workflows, and practical experimentation |
-| Generative AI | 🟣 Developing | Exploring LLM-powered applications, AI agents, and automation |
-| Computer Vision | 🟣 Developing | Exploring image-based detection and AI-powered monitoring systems |
-| AI APIs | 🟣 Developing | Building applications around modern AI APIs and model ecosystems |
-| AI Automation | 🟣 Developing | Integrating AI with workflow automation and software systems |
-| Prompt Engineering | 🟣 Developing | Designing structured prompts and AI-assisted engineering workflows |
+| Machine Learning | 🟣 Developing | Learning core ML concepts, workflows, and practical implementation |
+| Generative AI | 🟣 Developing | Exploring LLM-powered applications and AI-assisted development |
+| Computer Vision | 🟣 Developing | Exploring image-based detection and monitoring systems |
+| AI APIs | 🟣 Developing | Integrating AI models and APIs into software applications |
+| AI Automation | 🟣 Developing | Exploring AI-powered workflow automation |
+| Prompt Engineering | 🟣 Developing | Designing structured prompts for reliable AI workflows |
 | AI Engineering | 🟣 Developing | Exploring production-oriented AI application architecture |
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <details>
 <summary><strong>AI Workplace Safety Monitor</strong></summary>
 
 ### AI Workplace Safety Monitor
 
-An AI-powered workplace safety monitoring concept designed to identify potential safety hazards from visual workplace data and trigger automated safety workflows.
+An AI-assisted workplace safety monitoring system designed to identify potential safety hazards from visual data and trigger automated safety workflows.
 
 | Category | Details |
 |---|---|
 | **Stack** | Python · Computer Vision · AI · Kestra · Together AI · Docker |
-| **Scale** | Workflow-oriented safety monitoring prototype |
+| **Scale** | Workflow-oriented monitoring prototype |
 | **Performance** | Automated detection and event-driven processing |
-| **Security** | Focus on non-personal safety patterns and controlled workflows |
-| **Impact** | Faster identification and escalation of workplace hazards |
-| **Repository** | GitHub project repository |
+| **Security** | Focused on non-personal workplace safety patterns |
+| **Impact** | Faster identification and escalation of potential hazards |
+| **Repository** | [GitHub Repository](https://github.com/) |
 
 ### Engineering Scope
 
 - Designed an AI-assisted workplace safety monitoring workflow
-- Explored computer vision for identifying safety-related patterns
-- Integrated automated workflow orchestration
-- Used Kestra for event-driven workflow execution
+- Explored computer vision for safety-related pattern detection
+- Integrated workflow automation using Kestra
 - Explored Together AI for AI-powered processing
-- Containerized infrastructure using Docker
-- Built the concept around scalable automated safety alerts
+- Used Docker for local infrastructure
+- Designed automated safety alert workflows
+- Built the concept around scalable event-driven processing
 
-**Core Engineering Areas**
+**Core Areas**
 
-`AI/ML` `Computer Vision` `Automation` `Workflow Orchestration` `Docker` `Python`
+`AI/ML` `Computer Vision` `Python` `Automation` `Kestra` `Docker`
 
 </details>
 
 <details>
-<summary><strong>Java DSA & Problem Solving Repository</strong></summary>
+<summary><strong>Java DSA & Problem Solving</strong></summary>
 
 ### Java DSA & Problem Solving
 
-A structured collection of data structures, algorithms, and competitive programming solutions focused on strengthening problem-solving ability and technical interview fundamentals.
+A structured collection of Data Structures & Algorithms solutions focused on developing strong problem-solving and technical interview fundamentals.
 
 | Category | Details |
 |---|---|
 | **Stack** | Java · DSA · Algorithms · LeetCode |
 | **Scale** | Continuous problem-solving practice |
 | **Performance** | Complexity-aware implementations |
-| **Security** | Input validation and defensive coding principles |
+| **Security** | Defensive programming principles |
 | **Impact** | Stronger algorithmic thinking and interview readiness |
-| **Repository** | GitHub project repository |
+| **Repository** | [GitHub Repository](https://github.com/) |
 
 ### Engineering Scope
 
@@ -189,27 +179,27 @@ A structured collection of data structures, algorithms, and competitive programm
 - Complexity Analysis
 - LeetCode problem solving
 
-**Core Engineering Areas**
+**Core Areas**
 
 `Java` `DSA` `Algorithms` `Problem Solving` `Competitive Programming`
 
 </details>
 
 <details>
-<summary><strong>Full-Stack Engineering Projects</strong></summary>
+<summary><strong>Full-Stack Development Projects</strong></summary>
 
-### Full-Stack Engineering
+### Full-Stack Development
 
-A growing collection of full-stack applications designed to develop practical experience across frontend interfaces, backend APIs, databases, authentication, deployment, and software architecture.
+A growing collection of applications designed to develop practical experience across frontend development, backend APIs, databases, authentication, testing, and deployment.
 
 | Category | Details |
 |---|---|
 | **Stack** | Java · Spring Boot · REST APIs · SQL · JavaScript |
 | **Scale** | Application-level systems |
 | **Performance** | REST-based service architecture |
-| **Security** | Authentication and backend validation principles |
+| **Security** | Backend validation and authentication concepts |
 | **Impact** | Practical full-stack engineering experience |
-| **Repository** | GitHub project repository |
+| **Repository** | [GitHub Repository](https://github.com/) |
 
 ### Engineering Scope
 
@@ -221,9 +211,9 @@ A growing collection of full-stack applications designed to develop practical ex
 - API testing with Postman
 - Git and GitHub workflows
 - Linux-based development
-- Deployment and cloud fundamentals
+- Cloud and deployment fundamentals
 
-**Core Engineering Areas**
+**Core Areas**
 
 `Java` `Spring Boot` `REST API` `SQL` `JavaScript` `Git` `Linux`
 
@@ -231,7 +221,7 @@ A growing collection of full-stack applications designed to develop practical ex
 
 ---
 
-## Experience
+## 💼 Experience
 
 ### Computer Science Engineering Student — Galgotias University
 
@@ -242,13 +232,13 @@ Building a strong engineering foundation through academic coursework, programmin
 #### Scope of Work
 
 - Develop strong foundations in Data Structures & Algorithms
-- Build applications using Java and modern backend technologies
-- Study database systems, operating systems, computer networks, and software engineering
+- Build applications using Java and backend technologies
+- Study databases, operating systems, computer networks, and software engineering
 - Explore cloud computing and DevOps practices
 - Participate in technical projects and hackathons
 - Practice competitive programming and technical interview problems
 - Experiment with AI-powered applications and automation
-- Continuously improve GitHub, project, and engineering portfolio
+- Maintain and improve technical portfolio
 
 **Skills**
 
@@ -256,24 +246,24 @@ Building a strong engineering foundation through academic coursework, programmin
 
 ---
 
-## Achievements
+## 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
 |---|---|
-| **Hackathon Participant** | Built and explored an AI-powered workplace safety monitoring concept |
+| **Hackathon Participant** | Developed an AI-powered workplace safety monitoring concept |
 | **AI/ML Projects** | Applied AI concepts to practical software engineering workflows |
 | **DSA Practice** | Consistent algorithm and problem-solving practice using Java |
 | **Full-Stack Development** | Building practical backend and full-stack engineering skills |
 | **Cloud Engineering** | Developing foundations across Linux, cloud, DevOps, and deployment |
-| **Open Source Learning** | Actively building toward meaningful open-source contributions |
+| **Technical Learning** | Continuously expanding engineering knowledge through projects |
 
 </div>
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 ### AWS
 
@@ -293,7 +283,7 @@ Building a strong engineering foundation through academic coursework, programmin
 
 ---
 
-## Coding Profiles
+## 💻 Coding Profiles
 
 <div align="center">
 
@@ -317,7 +307,7 @@ Building a strong engineering foundation through academic coursework, programmin
 
 ---
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -333,7 +323,7 @@ Building a strong engineering foundation through academic coursework, programmin
 
 ---
 
-## GitHub Trophies
+## 🏅 GitHub Trophies
 
 <div align="center">
 
@@ -343,7 +333,7 @@ Building a strong engineering foundation through academic coursework, programmin
 
 ---
 
-## Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -353,7 +343,7 @@ Building a strong engineering foundation through academic coursework, programmin
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -363,7 +353,7 @@ Building a strong engineering foundation through academic coursework, programmin
 
 ---
 
-## Current Focus
+## 🎯 Current Focus
 
 ```yaml
 profile:
@@ -405,10 +395,41 @@ open_to:
   - "Cloud & DevOps Opportunities"
   - "Hackathons"
   - "Open Source Collaboration"
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+````
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+<img src="https://img.shields.io/badge/LINKEDIN-312E81?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AtulKaushal">
+<img src="https://img.shields.io/badge/GITHUB-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://YOUR-PORTFOLIO.com">
+<img src="https://img.shields.io/badge/PORTFOLIO-4C1D95?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**"Build with fundamentals. Engineer with purpose. Ship with impact."**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:4C1D95&height=120&section=footer&animation=twinkling" width="100%"/>
+
+</div>
+```
